@@ -8,4 +8,4 @@ const typing = (element, sentence) => {
     });
   }
   
-  typing('#typing', "email = m4neda at gmail.com");
+  typing('#typing_animation', "email=m4neda*gmail.com");
